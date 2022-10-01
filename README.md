@@ -15,3 +15,5 @@ Links:
 9. https://you.com/code
 10. http://www.codecademy.com/
 11. https://ninite.com/
+12. https://www.gradesaver.com/
+13. https://latexresu.me/generator/templates
