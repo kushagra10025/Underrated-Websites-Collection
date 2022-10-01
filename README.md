@@ -18,3 +18,4 @@ Links:
 12. https://www.gradesaver.com/
 13. https://latexresu.me/generator/templates
 14. https://wormhole.app/
+15. https://coolsymbol.com/cool-fancy-text-generator.html
