@@ -31,3 +31,7 @@ A Collection of all underrated websites, you should know about them but don't.
 26. https://downdetector.in/
 27. https://tinywow.com/
 28. https://beta.dreamstudio.ai/dream
+29. https://file.pizza/
+30. https://copychar.cc/
+31. https://www.opensourcealternative.to/
+32. https://www.jotform.com/
