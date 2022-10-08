@@ -27,3 +27,5 @@ A Collection of all underrated websites, you should know about them but don't.
 22. https://replit.com/
 23. https://devdocs.io/
 24. https://transform.tools/
+25. https://www.codashop.com/en-in/
+26. https://downdetector.in/
