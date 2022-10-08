@@ -22,5 +22,10 @@ A Collection of all underrated websites, you should know about them but don't.
 17. https://10MinuteMail.com
 18. https://www.codebreakthrough.com/
 19. https://nekobin.com/
-20. https://www.codashop.com/en-in/
-21. https://downdetector.in/
+20. https://alternativeto.net/
+21. https://blush.design/
+22. https://replit.com/
+23. https://devdocs.io/
+24. https://transform.tools/
+25. https://www.codashop.com/en-in/
+26. https://downdetector.in/
