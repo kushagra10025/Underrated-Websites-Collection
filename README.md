@@ -37,3 +37,4 @@ A Collection of all underrated websites, you should know about them but don't.
 |31. [OpenSource Alternative](https://www.opensourcealternative.to/) | Open Source Alternatives to Proprietary Software |
 |32. [JotForm](https://www.jotform.com/) | Free Online Form Builder & Form Creator |
 |33. [PinTools](https://pinetools.com/sharpen-image) | Sharpen Images |
+|34. [Glitch Art Gen](https://glitchart.io/) | Generator helping in creating glitch art effects |
