@@ -36,4 +36,4 @@ A Collection of all underrated websites, you should know about them but don't.
 |30. [CopyChar](https://copychar.cc/) | Add description |
 |31. [OpenSource Alternative](https://www.opensourcealternative.to/) | Add description |
 |32. [JotForm](https://www.jotform.com/) | Add description |
-|33. [PinTools}(https://pinetools.com/sharpen-image) | Sharpen Images |
+|33. [PinTools](https://pinetools.com/sharpen-image) | Sharpen Images |
