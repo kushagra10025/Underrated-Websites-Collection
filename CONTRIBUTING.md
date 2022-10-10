@@ -3,7 +3,7 @@
 Thanks for wanting to help in this incredible project, this is how you can:
 ## Add descriptions
 
-If some page didn't have a description, feel fre to edit that and add one.
+If some page didn't have a description, feel free to edit that and add one.
 
 **This is only for first pages, when it wasn't required the description.**
 
