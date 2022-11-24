@@ -31,7 +31,7 @@ A Collection of all underrated websites, you should know about them but don't.
 |25. [Coda Shop](https://www.codashop.com/en-in/) | The fastest way to get game credits online, without a credit card! |
 |26. [Down Detector](https://downdetector.in/) | We tell you when your favorite services are down or having problems |
 |27. [Tiny Wow](https://tinywow.com/) | Free PDF, Video, Image & Other Online Tools |
-|28. [Dream Studi AI](https://beta.dreamstudio.ai/dream) | Easy-to-use interface for creating images using the recently released Stable Diffusion image generation model |
+|28. [Dream Studio AI](https://beta.dreamstudio.ai/dream) | Easy-to-use interface for creating images using the recently released Stable Diffusion image generation model |
 |29. [FIle Pizza](https://file.pizza/) | Free peer-to-peer file transfers in your browser |
 |30. [CopyChar](https://copychar.cc/) | Copy special characters to your clipboard |
 |31. [OpenSource Alternative](https://www.opensourcealternative.to/) | Open Source Alternatives to Proprietary Software |
@@ -39,3 +39,4 @@ A Collection of all underrated websites, you should know about them but don't.
 |33. [PinTools](https://pinetools.com/sharpen-image) | Sharpen Images |
 |34. [Glitch Art Gen](https://glitchart.io/) | Generator helping in creating glitch art effects |
 |35. [FutureMe](https://www.futureme.org/) | Send Mails to Your Future Self |
+|36. [Carbon.Now.Sh](https://carbon.now.sh/) | Beautiful Images of your Source Code |
