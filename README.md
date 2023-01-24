@@ -40,3 +40,5 @@ A Collection of all underrated websites, you should know about them but don't.
 |34. [Glitch Art Gen](https://glitchart.io/) | Generator helping in creating glitch art effects |
 |35. [FutureMe](https://www.futureme.org/) | Send Mails to Your Future Self |
 |36. [Carbon.Now.Sh](https://carbon.now.sh/) | Beautiful Images of your Source Code |
+|37. [Rx-Resume Web App](https://rx-resume.web.app/) | Resume Maker - 100% Free |
+|38. [JSON Resume](https://jsonresume.org/) | Open Source JSON Schema for Resume and Themes |
