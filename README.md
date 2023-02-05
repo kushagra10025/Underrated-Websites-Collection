@@ -43,3 +43,4 @@ A Collection of all underrated websites, you should know about them but don't.
 |37. [Rx-Resume Web App](https://rx-resume.web.app/) | Resume Maker - 100% Free |
 |38. [JSON Resume](https://jsonresume.org/) | Open Source JSON Schema for Resume and Themes |
 |39. [Synthesia](https://www.synthesia.io/) | AI Video Creation from plain text|
+|40. [Luma Labs](https://lumalabs.ai/luma-api) | Imagine 3D Models and integrate using API |
