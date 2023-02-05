@@ -44,3 +44,7 @@ A Collection of all underrated websites, you should know about them but don't.
 |38. [JSON Resume](https://jsonresume.org/) | Open Source JSON Schema for Resume and Themes |
 |39. [Synthesia](https://www.synthesia.io/) | AI Video Creation from plain text|
 |40. [Luma Labs](https://lumalabs.ai/luma-api) | Imagine 3D Models and integrate using API |
+|41. [Beatoven](https://www.beatoven.ai/) | Create royalty free music |
+|42. [Flair](https://flair.ai/) | Tool for branding content |
+|43. [Vocal Remover](https://vocalremover.org/) | Seperate beats and vocals from music |
+|44. [Web 3 Forms](https://web3forms.com/) | HTML Contact Forms API | 
