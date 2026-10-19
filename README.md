@@ -48,3 +48,4 @@ A Collection of all underrated websites, you should know about them but don't.
 |42. [Flair](https://flair.ai/) | Tool for branding content |
 |43. [Vocal Remover](https://vocalremover.org/) | Seperate beats and vocals from music |
 |44. [Web 3 Forms](https://web3forms.com/) | HTML Contact Forms API | 
+|45. [Vocal Separator](https://vocalseparator.com/) | Vocal/instrumental or four-stem WAV separation with an anonymous daily free allowance and optional prepaid minutes |
